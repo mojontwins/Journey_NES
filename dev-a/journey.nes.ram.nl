@@ -1,0 +1,15 @@
+$00BC#tmp1#
+$00B4#ptr1#
+$0032#rda#
+$00AC#sp#
+$00B0#regsave#
+$0337#game_timer#
+$0338#ticker#
+$0006#<pal_update#
+$2006#PPU_ADDR#
+$2007#PPU_DATA#
+$2000#PPU_CTRL#
+$2005#PPU_SCROLL#
+$2001#PPU_MASK#
+$0001#<FRAME_CNT1#
+$0002#<FRAME_CNT2#

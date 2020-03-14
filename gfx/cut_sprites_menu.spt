@@ -1,0 +1,14 @@
+ASEPRITE
+PALS ..\..\cave\gfx\palts.png
+OPEN ..\..\cave\gfx\font.png
+CHARSET 0,0,32,2
+PALS ..\..\cave\gfx\pal_ending.png
+OPEN ..\..\cave\gfx\ending.png
+MAPFILE ..\..\cave\dev\work\dummy_ending.h
+MAPPED 0, 0, 2, 2, 16, 15
+PALS menu-palts.png
+OPEN menu-ss.png
+MAPFILE ..\dev-a\assets\spritedata_menu.h
+LABEL spr_menu
+METASPRITESET 0,0,2,2,1,1,0,0
+FILL 4096

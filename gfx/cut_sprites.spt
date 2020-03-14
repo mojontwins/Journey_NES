@@ -1,0 +1,54 @@
+ASEPRITE
+NOSKIPEMPTY
+
+# Bits: 0 empty, 1 coco / bullet
+PALS palss.png
+OPEN bits.png
+CHARSET 0, 0, 10, 1
+
+MAPFILE ..\dev-a\assets\spritedata.h
+
+OPEN sscuts.png
+PALS palss.png
+LABEL sscuts
+METASPRITESET 0, 0, 3, 3, 2, 1, 0, 0
+
+OPEN ss.png
+PALS palss.png
+LABEL sspl
+METASPRITESET 0, 0, 2, 3, 12, 1, -4, -8 FLIPPED
+LABEL ssen_1
+METASPRITESET 0, 3, 2, 2, 10, 1, 0, 0 FLIPPED
+LABEL ssmp
+METASPRITESET 20, 3, 2, 2, 2, 1, 0, 0
+LABEL ssit
+METASPRITESET 0, 5, 2, 2, 6, 1, 0, 0
+LABEL ssrb
+METASPRITESET 0, 7, 2, 3, 12, 1, -4, -8 FLIPPED
+
+MAPFILE ..\dev-b\assets\spritedata.h
+
+OPEN sscuts.png
+PALS palss.png
+LABEL sscuts
+METASPRITESET 0, 0, 3, 3, 2, 1, 0, 0
+
+OPEN ss.png
+PALS palss.png
+LABEL sspl
+METASPRITESET 0, 0, 2, 3, 12, 1, -4, -8 FLIPPED
+LABEL ssen_1
+METASPRITESET 0, 3, 2, 2, 10, 1, 0, 0 FLIPPED
+LABEL ssen_2
+METASPRITESET 16, 5, 2, 1, 2, 1, 0, 0
+LABEL ssmp
+METASPRITESET 20, 3, 2, 2, 2, 1, 0, 0
+LABEL ssit
+METASPRITESET 0, 5, 2, 2, 5, 1, 0, 0
+LABEL ssrb
+METASPRITESET 0, 7, 2, 3, 12, 1, -4, -8 FLIPPED
+
+OPEN vira.png
+LABEL ssvira
+SKIPEMPTY
+METASPRITESET 0, 0, 4, 4, 6, 1, -8, -16
